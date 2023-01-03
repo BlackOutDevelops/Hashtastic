@@ -1,0 +1,42 @@
+Operation Count: 1
+Collision Count: 0
+Size of Hash Table: 1
+80
+Sent to index 0
+
+Operation Count: 2
+Collision Count: 0
+Size of Hash Table: 2
+299
+Sent to index 4
+
+Operation Count: 3
+Collision Count: 2
+Size of Hash Table: 3
+189
+Sent to index 4
+
+Operation Count: 3
+Collision Count: 35
+Size of Hash Table: 3
+41
+Sent to index 8
+
+Capacity: 11
+Hash Table Array Values:
+0: 26
+1: 26
+2: 26
+3: 26
+4: 26
+5: 26
+6: 26
+7: 26
+8: 26
+9: 26
+10: 26
+Linear(0) or Quadratic(1): 0
+Size of Hash Table: 3
+Linear(0) or Quadratic(1): 1
+Is Hash Table half empty(Yes(1) or No(0)): 1
+15 is found at index: -1

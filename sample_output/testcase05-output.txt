@@ -1,0 +1,7 @@
+Number of collisions: 384226
+Number of operations: 100000
+Average collisions per op: 3.84
+
+This hash function looks pretty good!
+
+Everything seems to be unfolding according to plan...
